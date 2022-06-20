@@ -34,6 +34,7 @@
 #h: ... prjs-dir      : List projects with directories.
 #h: ... prjs-new      : List projects with directories but not listed.
 #h: ... script|s NAME : Search a script.
+##:
 projectm() {
     local cmd="$1"
     shift
